@@ -103,3 +103,5 @@ division.grid(row=4,column=3)
 equal.grid(row=5,column=0,columnspan=4,pady=10)
 
 window.mainloop()
+
+#todo: figure out UI, fonts, M1 M2 M+, history
